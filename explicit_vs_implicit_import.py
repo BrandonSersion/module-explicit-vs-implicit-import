@@ -31,5 +31,5 @@ def main():
     run_module2_function()
     run_module2_class_function()
 
-if __name__=='__main__':
+if __name__ == '__main__':
     main()
